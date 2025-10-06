@@ -1,0 +1,2 @@
+# splitly
+Expenses sharing app
